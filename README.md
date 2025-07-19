@@ -9,6 +9,7 @@ Analyze Virat Kohli’s centuries to identify performance trends, strengths, and
 - **Python (Pandas, Matplotlib, Seaborn)** – EDA & feature Engineering
 - **Power BI** – Dashboard creation and data visualization
 - **Google Colab** – For all Python-based analysis
+- **MS SQL Server** - For Querying
 
 ---
 
