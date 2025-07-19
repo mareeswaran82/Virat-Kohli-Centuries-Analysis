@@ -61,15 +61,6 @@ These early mistakes helped me build this project with:
 >  This is my first complete **end-to-end** data analysis project with real learning impact.
 
 ---
-## Project Structure
-
-1. [View Raw Data](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Virat_Kohli_Centuries_Analysis/01_raw%20virat%20kohlli%20data.csv)
-2. [View EDA Notebook](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Virat_Kohli_Centuries_Analysis/02_Virat_Kohli_EDA.ipynb)
-3. [View Cleaned Data](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Virat_Kohli_Centuries_Analysis/03_Cleaned_raw_data.csv.csv)
-4. [View Dashboard Screenshot](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Virat_Kohli_Centuries_Analysis/04_Virat_kohli_dashboard.png)
-5. [View Interactive Dashboard](https://drive.google.com/file/d/1ppjvDEUBMgeZJ60Zo27h8ZiThYVLGFbv/view?usp=drive_link)
-6. [SQL Queries](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Virat_Kohli_Centuries_Analysis/05_Virat_kohli_analysis_queries.sql)
-
 
 ##  Future Improvements
 
